@@ -1,11 +1,11 @@
-	### **title: Getting and Cleaning Data Coursera Assignment**
-	### **author: Jackson Corley**
-	### **date: 10/20/2019**
-	### **output: FinalData.txt**
-  
+### **title: Getting and Cleaning Data Coursera Assignment**
+### **author: Jackson Corley**
+### **date: 10/20/2019**
+### **output: FinalData.txt**
+
 #**Project Description**
 The run_analysis.R script performs the required steps as described in the course project’s definition.
-	## **Check if zipped file exists**
+	Item 1 ## **Check if zipped file exists**
 		○ Dataset downloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" 
 	## **Check if folder exists**
 		○ extracts under the folder called UCI HAR Dataset
